@@ -128,7 +128,11 @@ Dashboard updates automatically
 ---
 
 # 📸 Dashboard Preview
+<img width="919" height="521" alt="IMG1" src="https://github.com/user-attachments/assets/ee9c344c-dd7b-4406-ad3c-229a73435098" />
+
 <img width="917" height="514" alt="IMG2" src="https://github.com/user-attachments/assets/7f4be8d1-fa8e-4671-a186-1a9c17541bf5" />
+<img width="921" height="519" alt="IMG3" src="https://github.com/user-attachments/assets/569f9b89-d836-4517-b908-e954c1fea0d7" />
+
 
 
 
