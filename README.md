@@ -135,8 +135,7 @@ Dashboard updates automatically
 
 # 🎥 Project Link
 
-(Starbucks Sales Manager
-coffee-haven--yogeshsinghjat4.replit.app )
+coffee-haven--yogeshsinghjat4.replit.app 
 
 ---
 
