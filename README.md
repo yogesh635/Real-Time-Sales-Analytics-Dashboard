@@ -133,9 +133,10 @@ Dashboard updates automatically
 
 ---
 
-# 🎥 Project Demo
+# 🎥 Project Link
 
-(Add YouTube Link)
+(Starbucks Sales Manager
+coffee-haven--yogeshsinghjat4.replit.app )
 
 ---
 
