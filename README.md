@@ -141,7 +141,35 @@ coffee-haven--yogeshsinghjat4.replit.app
 
 # 📂 Repository Structure
 
-(Add Folder Screenshot)
+(Customer
+
+↓
+
+Website
+
+↓
+
+Order Submitted
+
+↓
+
+PostgreSQL
+
+↓
+
+SQL Query
+
+↓
+
+Power BI
+
+↓
+
+Dashboard Refresh
+
+↓
+
+Business Insights)
 
 ---
 
